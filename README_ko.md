@@ -1,0 +1,35 @@
+# 메모리 포렌식 기초
+
+## 언어
+
+🇨🇳 [简体中文](README_zh.md) 🇪🇸 [Español](README_es.md) 🇫🇷 [Français](README_fr.md) 🇩🇪 [Deutsch](README_de.md) 🇯🇵 [日本語](README_ja.md) 🇷🇺 [Русский](README_ru.md) 🇰🇷 [한국어](README_ko.md) 🇧🇷 [Português](README_pt.md) 🇺🇸 [English](README.md) 
+
+[![메모리 포렌식 기초](https://course-cover.labex.io/memory-forensics-basics.png?lang=ko)](https://labex.io/ko/courses/memory-forensics-basics)
+
+[![Start-Learning](https://img.shields.io/badge/Start-Learning-whitesmoke?style=for-the-badge)](https://labex.io/ko/courses/memory-forensics-basics)
+
+휘발성 RAM 에서 중요한 증거를 추출하는 방법을 배웁니다. 메모리 덤프를 캡처하고 Volatility Framework 를 사용하여 프로세스, 네트워크 연결 및 숨겨진 악성 아티팩트를 분석하는 기술을 익힙니다.
+
+![cybersecurity-engineer](https://img.shields.io/badge/cybersecurity-engineer-whitesmoke?style=for-the-badge&logo=cybersecurity-engineer)
+![cybersecurity](https://img.shields.io/badge/cybersecurity-whitesmoke?style=for-the-badge&logo=cybersecurity)
+
+
+## 연습
+
+|   인덱스 | 이름                             | 난이도   | 연습                                                                                                                                     |
+|-------|--------------------------------|-------|----------------------------------------------------------------------------------------------------------------------------------------|
+|     1 | 🧩 🆓 메모리 추출                     | 초급    | <a target='_blank' href='https://labex.io/ko/labs/linux-memory-extraction-656202?course=memory-forensics-basics'>실습 시작</a>             |
+|     2 | 🧩 🆓 strings 를 이용한 메모리 분석       | 초급    | <a target='_blank' href='https://labex.io/ko/labs/linux-analyzing-memory-with-strings-656200?course=memory-forensics-basics'>실습 시작</a> |
+|     3 | 🧩 🆓 Volatility 입문              | 초급    | <a target='_blank' href='https://labex.io/ko/labs/linux-introduction-to-volatility-656201?course=memory-forensics-basics'>실습 시작</a>    |
+|     4 | 🎯 🆓 라이브 트리아지 (Live Triage) 챌린지 | 중급    | <a target='_blank' href='https://labex.io/ko/labs/linux-live-triage-challenge-656199?course=memory-forensics-basics'>도전 시작</a>         |
+
+## LabEx 소개
+
+[LabEx](https://labex.io) 는 코딩과 기술에 전념하는 대화형 실습 학습 플랫폼입니다. 실험실, AI 지원 및 가상 머신을 결합하여 비디오 없는 실용적인 학습 경험을 제공합니다. 비디오 없는 독점적인 실습 실험실로 엄격한 '실습을 통한 학습' 접근 방식, 브라우저 내 대화형 온라인 환경에서 자동화된 단계별 확인, 스킬 트리 기반 시스템으로 구조화된 콘텐츠 구성, 30 개의 스킬 트리와 6,000 개 이상의 실험실을 포함하는 성장하는 학습 리소스로, [LabEx](https://labex.io) 는 종합적인 실습 교육을 제공합니다. 플랫폼에는 최신 AI 모델을 기반으로 구축된 학습 도우미 Labby 가 포함되어 대화형 학습 경험을 제공합니다.
+
+## 더 보기
+
+- 🔗 [Cybersecurity Engineer 프로그래밍 코스](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Cybersecurity Engineer 프로그래밍 프로젝트](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Cybersecurity Engineer 무료 튜토리얼](https://github.com/labex-labs/cybersecurity-engineer-free-tutorials)
+
